@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = ValidateSpanishVat::VERSION
   s.authors     = ["Antonio Pardo"]
   s.email       = ["apardo@alabs.es"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/alabs/validate_spanish_vat"
+  s.summary     = %q{Valida NIF, CIf y NIE españoles}
+  s.description = %q{Valida NIF, CIF y NIE españoles}
 
   s.rubyforge_project = "validate_spanish_vat"
 
